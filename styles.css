@@ -1,0 +1,51 @@
+body {
+    background: black ;
+    padding: 15px 30px 15px 30px;
+}
+
+.wrapper {
+    background: lightgray;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.main-content {
+    padding-left: 30px;
+}
+
+.main-content {
+    padding-top: 40px;
+}
+
+.sidebar{
+    background:darkgray;
+    padding: 40px 60px;
+    box-sizing: border-box;
+    width: 600px;
+}
+.contacts-type{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.my-profile{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 20px;
+}
+.my-name{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.my-bio{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+}
